@@ -1,0 +1,6 @@
+Real-Time Collaborative Whiteboard Protocol
+
+
+Abstract
+
+The Real-Time Collaborative Whiteboard Protocol (RTCWP) is an application-level protocol designed to enable the collaborative editing of a single document, specifically drawing on a shared whiteboard. It is a stateful, persistent protocol designed for a limited set of specific tasks.
